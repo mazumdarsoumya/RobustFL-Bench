@@ -1,0 +1,3002 @@
+[
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "MNIST",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_simple_cnn_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "MNIST",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_simple_cnn_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "MNIST",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_simple_cnn_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "MNIST",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_simple_cnn_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "MNIST",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_simple_cnn_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-10",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_simple_cnn_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-10",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_simple_cnn_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-10",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_simple_cnn_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-10",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_simple_cnn_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-10",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_simple_cnn_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-100",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_simple_cnn_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-100",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_simple_cnn_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-100",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_simple_cnn_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-100",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_simple_cnn_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-100",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_simple_cnn_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "SVHN",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_simple_cnn_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "SVHN",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_simple_cnn_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "SVHN",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_simple_cnn_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "SVHN",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_simple_cnn_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "SVHN",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_simple_cnn_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "GTSRB",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_simple_cnn_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "GTSRB",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_simple_cnn_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "GTSRB",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_simple_cnn_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "GTSRB",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_simple_cnn_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "SimpleCNN",
+    "dataset": "GTSRB",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_simple_cnn_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "MNIST",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_resnet18_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "MNIST",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_resnet18_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "MNIST",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_resnet18_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "MNIST",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_resnet18_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "MNIST",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_resnet18_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-10",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_resnet18_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-10",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_resnet18_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-10",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_resnet18_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-10",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_resnet18_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-10",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_resnet18_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-100",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_resnet18_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-100",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_resnet18_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-100",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_resnet18_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-100",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_resnet18_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-100",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_resnet18_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "SVHN",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_resnet18_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "SVHN",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_resnet18_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "SVHN",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_resnet18_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "SVHN",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_resnet18_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "SVHN",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_resnet18_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "GTSRB",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_resnet18_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "GTSRB",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_resnet18_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "GTSRB",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_resnet18_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "GTSRB",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_resnet18_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ResNet-18",
+    "dataset": "GTSRB",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_resnet18_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "MNIST",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_mobilenet_v3_small_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "MNIST",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_mobilenet_v3_small_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "MNIST",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_mobilenet_v3_small_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "MNIST",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_mobilenet_v3_small_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "MNIST",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_mobilenet_v3_small_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-10",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_mobilenet_v3_small_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-10",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_mobilenet_v3_small_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-10",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_mobilenet_v3_small_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-10",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_mobilenet_v3_small_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-10",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_mobilenet_v3_small_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-100",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_mobilenet_v3_small_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-100",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_mobilenet_v3_small_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-100",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_mobilenet_v3_small_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-100",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_mobilenet_v3_small_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-100",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_mobilenet_v3_small_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "SVHN",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_mobilenet_v3_small_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "SVHN",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_mobilenet_v3_small_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "SVHN",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_mobilenet_v3_small_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "SVHN",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_mobilenet_v3_small_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "SVHN",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_mobilenet_v3_small_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "GTSRB",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_mobilenet_v3_small_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "GTSRB",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_mobilenet_v3_small_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "GTSRB",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_mobilenet_v3_small_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "GTSRB",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_mobilenet_v3_small_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "GTSRB",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_mobilenet_v3_small_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "MNIST",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_efficientnet_b0_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "MNIST",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_efficientnet_b0_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "MNIST",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_efficientnet_b0_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "MNIST",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_efficientnet_b0_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "MNIST",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_efficientnet_b0_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-10",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_efficientnet_b0_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-10",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_efficientnet_b0_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-10",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_efficientnet_b0_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-10",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_efficientnet_b0_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-10",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_efficientnet_b0_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-100",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_efficientnet_b0_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-100",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_efficientnet_b0_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-100",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_efficientnet_b0_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-100",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_efficientnet_b0_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-100",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_efficientnet_b0_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "SVHN",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_efficientnet_b0_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "SVHN",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_efficientnet_b0_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "SVHN",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_efficientnet_b0_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "SVHN",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_efficientnet_b0_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "SVHN",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_efficientnet_b0_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "GTSRB",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_efficientnet_b0_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "GTSRB",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_efficientnet_b0_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "GTSRB",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_efficientnet_b0_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "GTSRB",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_efficientnet_b0_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "EfficientNet-B0",
+    "dataset": "GTSRB",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_efficientnet_b0_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "MNIST",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_shufflenet_v2_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "MNIST",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_shufflenet_v2_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "MNIST",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_shufflenet_v2_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "MNIST",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_shufflenet_v2_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "MNIST",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_shufflenet_v2_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-10",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_shufflenet_v2_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-10",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_shufflenet_v2_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-10",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_shufflenet_v2_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-10",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_shufflenet_v2_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-10",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_shufflenet_v2_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-100",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_shufflenet_v2_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-100",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_shufflenet_v2_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-100",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_shufflenet_v2_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-100",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_shufflenet_v2_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-100",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_shufflenet_v2_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "SVHN",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_shufflenet_v2_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "SVHN",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_shufflenet_v2_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "SVHN",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_shufflenet_v2_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "SVHN",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_shufflenet_v2_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "SVHN",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_shufflenet_v2_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "GTSRB",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_shufflenet_v2_fedavg_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "GTSRB",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_shufflenet_v2_trimmed_mean_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "GTSRB",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_shufflenet_v2_krum_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "GTSRB",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_shufflenet_v2_fltrust_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "sign_flip",
+    "architecture": "ShuffleNetV2",
+    "dataset": "GTSRB",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_shufflenet_v2_fedpareto_sign_flip_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "MNIST",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_simple_cnn_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "MNIST",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_simple_cnn_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "MNIST",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_simple_cnn_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "MNIST",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_simple_cnn_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "MNIST",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_simple_cnn_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-10",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_simple_cnn_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-10",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_simple_cnn_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-10",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_simple_cnn_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-10",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_simple_cnn_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-10",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_simple_cnn_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-100",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_simple_cnn_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-100",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_simple_cnn_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-100",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_simple_cnn_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-100",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_simple_cnn_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-100",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_simple_cnn_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "SVHN",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_simple_cnn_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "SVHN",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_simple_cnn_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "SVHN",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_simple_cnn_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "SVHN",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_simple_cnn_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "SVHN",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_simple_cnn_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "GTSRB",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_simple_cnn_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "GTSRB",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_simple_cnn_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "GTSRB",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_simple_cnn_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "GTSRB",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_simple_cnn_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "SimpleCNN",
+    "dataset": "GTSRB",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_simple_cnn_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "MNIST",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_resnet18_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "MNIST",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_resnet18_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "MNIST",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_resnet18_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "MNIST",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_resnet18_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "MNIST",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_resnet18_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-10",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_resnet18_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-10",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_resnet18_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-10",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_resnet18_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-10",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_resnet18_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-10",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_resnet18_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-100",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_resnet18_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-100",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_resnet18_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-100",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_resnet18_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-100",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_resnet18_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-100",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_resnet18_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "SVHN",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_resnet18_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "SVHN",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_resnet18_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "SVHN",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_resnet18_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "SVHN",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_resnet18_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "SVHN",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_resnet18_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "GTSRB",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_resnet18_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "GTSRB",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_resnet18_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "GTSRB",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_resnet18_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "GTSRB",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_resnet18_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ResNet-18",
+    "dataset": "GTSRB",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_resnet18_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "MNIST",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_mobilenet_v3_small_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "MNIST",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_mobilenet_v3_small_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "MNIST",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_mobilenet_v3_small_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "MNIST",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_mobilenet_v3_small_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "MNIST",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_mobilenet_v3_small_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-10",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_mobilenet_v3_small_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-10",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_mobilenet_v3_small_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-10",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_mobilenet_v3_small_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-10",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_mobilenet_v3_small_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-10",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_mobilenet_v3_small_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-100",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_mobilenet_v3_small_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-100",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_mobilenet_v3_small_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-100",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_mobilenet_v3_small_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-100",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_mobilenet_v3_small_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-100",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_mobilenet_v3_small_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "SVHN",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_mobilenet_v3_small_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "SVHN",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_mobilenet_v3_small_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "SVHN",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_mobilenet_v3_small_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "SVHN",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_mobilenet_v3_small_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "SVHN",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_mobilenet_v3_small_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "GTSRB",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_mobilenet_v3_small_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "GTSRB",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_mobilenet_v3_small_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "GTSRB",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_mobilenet_v3_small_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "GTSRB",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_mobilenet_v3_small_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "GTSRB",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_mobilenet_v3_small_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "MNIST",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_efficientnet_b0_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "MNIST",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_efficientnet_b0_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "MNIST",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_efficientnet_b0_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "MNIST",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_efficientnet_b0_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "MNIST",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_efficientnet_b0_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-10",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_efficientnet_b0_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-10",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_efficientnet_b0_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-10",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_efficientnet_b0_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-10",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_efficientnet_b0_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-10",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_efficientnet_b0_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-100",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_efficientnet_b0_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-100",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_efficientnet_b0_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-100",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_efficientnet_b0_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-100",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_efficientnet_b0_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-100",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_efficientnet_b0_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "SVHN",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_efficientnet_b0_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "SVHN",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_efficientnet_b0_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "SVHN",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_efficientnet_b0_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "SVHN",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_efficientnet_b0_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "SVHN",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_efficientnet_b0_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "GTSRB",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_efficientnet_b0_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "GTSRB",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_efficientnet_b0_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "GTSRB",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_efficientnet_b0_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "GTSRB",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_efficientnet_b0_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "EfficientNet-B0",
+    "dataset": "GTSRB",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_efficientnet_b0_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "MNIST",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_shufflenet_v2_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "MNIST",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_shufflenet_v2_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "MNIST",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_shufflenet_v2_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "MNIST",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_shufflenet_v2_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "MNIST",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_shufflenet_v2_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-10",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_shufflenet_v2_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-10",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_shufflenet_v2_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-10",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_shufflenet_v2_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-10",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_shufflenet_v2_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-10",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_shufflenet_v2_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-100",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_shufflenet_v2_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-100",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_shufflenet_v2_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-100",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_shufflenet_v2_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-100",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_shufflenet_v2_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-100",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_shufflenet_v2_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "SVHN",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_shufflenet_v2_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "SVHN",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_shufflenet_v2_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "SVHN",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_shufflenet_v2_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "SVHN",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_shufflenet_v2_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "SVHN",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_shufflenet_v2_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "GTSRB",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_shufflenet_v2_fedavg_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "GTSRB",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_shufflenet_v2_trimmed_mean_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "GTSRB",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_shufflenet_v2_krum_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "GTSRB",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_shufflenet_v2_fltrust_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "gaussian",
+    "architecture": "ShuffleNetV2",
+    "dataset": "GTSRB",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_shufflenet_v2_fedpareto_gaussian_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "MNIST",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_simple_cnn_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "MNIST",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_simple_cnn_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "MNIST",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_simple_cnn_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "MNIST",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_simple_cnn_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "MNIST",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_simple_cnn_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-10",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_simple_cnn_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-10",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_simple_cnn_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-10",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_simple_cnn_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-10",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_simple_cnn_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-10",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_simple_cnn_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-100",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_simple_cnn_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-100",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_simple_cnn_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-100",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_simple_cnn_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-100",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_simple_cnn_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "CIFAR-100",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_simple_cnn_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "SVHN",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_simple_cnn_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "SVHN",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_simple_cnn_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "SVHN",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_simple_cnn_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "SVHN",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_simple_cnn_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "SVHN",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_simple_cnn_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "GTSRB",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_simple_cnn_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "GTSRB",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_simple_cnn_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "GTSRB",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_simple_cnn_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "GTSRB",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_simple_cnn_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "SimpleCNN",
+    "dataset": "GTSRB",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_simple_cnn_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "MNIST",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_resnet18_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "MNIST",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_resnet18_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "MNIST",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_resnet18_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "MNIST",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_resnet18_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "MNIST",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_resnet18_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-10",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_resnet18_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-10",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_resnet18_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-10",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_resnet18_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-10",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_resnet18_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-10",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_resnet18_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-100",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_resnet18_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-100",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_resnet18_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-100",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_resnet18_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-100",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_resnet18_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "CIFAR-100",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_resnet18_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "SVHN",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_resnet18_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "SVHN",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_resnet18_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "SVHN",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_resnet18_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "SVHN",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_resnet18_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "SVHN",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_resnet18_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "GTSRB",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_resnet18_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "GTSRB",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_resnet18_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "GTSRB",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_resnet18_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "GTSRB",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_resnet18_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ResNet-18",
+    "dataset": "GTSRB",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_resnet18_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "MNIST",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_mobilenet_v3_small_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "MNIST",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_mobilenet_v3_small_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "MNIST",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_mobilenet_v3_small_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "MNIST",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_mobilenet_v3_small_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "MNIST",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_mobilenet_v3_small_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-10",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_mobilenet_v3_small_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-10",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_mobilenet_v3_small_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-10",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_mobilenet_v3_small_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-10",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_mobilenet_v3_small_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-10",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_mobilenet_v3_small_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-100",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_mobilenet_v3_small_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-100",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_mobilenet_v3_small_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-100",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_mobilenet_v3_small_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-100",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_mobilenet_v3_small_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "CIFAR-100",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_mobilenet_v3_small_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "SVHN",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_mobilenet_v3_small_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "SVHN",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_mobilenet_v3_small_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "SVHN",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_mobilenet_v3_small_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "SVHN",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_mobilenet_v3_small_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "SVHN",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_mobilenet_v3_small_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "GTSRB",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_mobilenet_v3_small_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "GTSRB",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_mobilenet_v3_small_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "GTSRB",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_mobilenet_v3_small_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "GTSRB",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_mobilenet_v3_small_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "MobileNetV3-Small",
+    "dataset": "GTSRB",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_mobilenet_v3_small_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "MNIST",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_efficientnet_b0_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "MNIST",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_efficientnet_b0_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "MNIST",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_efficientnet_b0_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "MNIST",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_efficientnet_b0_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "MNIST",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_efficientnet_b0_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-10",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_efficientnet_b0_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-10",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_efficientnet_b0_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-10",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_efficientnet_b0_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-10",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_efficientnet_b0_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-10",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_efficientnet_b0_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-100",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_efficientnet_b0_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-100",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_efficientnet_b0_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-100",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_efficientnet_b0_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-100",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_efficientnet_b0_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "CIFAR-100",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_efficientnet_b0_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "SVHN",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_efficientnet_b0_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "SVHN",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_efficientnet_b0_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "SVHN",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_efficientnet_b0_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "SVHN",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_efficientnet_b0_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "SVHN",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_efficientnet_b0_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "GTSRB",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_efficientnet_b0_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "GTSRB",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_efficientnet_b0_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "GTSRB",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_efficientnet_b0_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "GTSRB",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_efficientnet_b0_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "EfficientNet-B0",
+    "dataset": "GTSRB",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_efficientnet_b0_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "MNIST",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_shufflenet_v2_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "MNIST",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_shufflenet_v2_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "MNIST",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_shufflenet_v2_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "MNIST",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_shufflenet_v2_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "MNIST",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/mnist_shufflenet_v2_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-10",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_shufflenet_v2_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-10",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_shufflenet_v2_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-10",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_shufflenet_v2_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-10",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_shufflenet_v2_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-10",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar10_shufflenet_v2_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-100",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_shufflenet_v2_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-100",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_shufflenet_v2_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-100",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_shufflenet_v2_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-100",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_shufflenet_v2_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "CIFAR-100",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/cifar100_shufflenet_v2_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "SVHN",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_shufflenet_v2_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "SVHN",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_shufflenet_v2_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "SVHN",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_shufflenet_v2_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "SVHN",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_shufflenet_v2_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "SVHN",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/svhn_shufflenet_v2_fedpareto_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "GTSRB",
+    "method": "FedAvg",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_shufflenet_v2_fedavg_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "GTSRB",
+    "method": "TrimmedMean",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_shufflenet_v2_trimmed_mean_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "GTSRB",
+    "method": "Krum",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_shufflenet_v2_krum_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "GTSRB",
+    "method": "FLTrust",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_shufflenet_v2_fltrust_badnets_seed1.yaml"
+  },
+  {
+    "attack_config_name": "badnets",
+    "architecture": "ShuffleNetV2",
+    "dataset": "GTSRB",
+    "method": "FedPARETO",
+    "seed": 1,
+    "config_path": "benchmark_configs/attack_only/gtsrb_shufflenet_v2_fedpareto_badnets_seed1.yaml"
+  }
+]

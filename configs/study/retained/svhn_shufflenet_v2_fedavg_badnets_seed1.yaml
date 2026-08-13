@@ -1,0 +1,66 @@
+seed: 1
+device: cuda
+dataset:
+  root: data/raw
+  name: svhn
+  image_size: 32
+  normalize: true
+  augment: true
+partition:
+  type: dirichlet
+  num_clients: 20
+  dirichlet_alpha: 1.0
+  pathological_classes_per_client: 2
+federated:
+  rounds: 500
+  clients_per_round: 10
+  local_epochs: 1
+  momentum: 0.9
+  weight_decay: 0.0005
+  batch_size: 64
+  lr: 0.003
+attack:
+  name: badnets
+  malicious_fraction: 0.25
+  target_label: 0
+  poison_fraction: 0.3
+  patch_value: 1.0
+  trigger_size: 4
+anchor:
+  batch_size: 256
+  server_root_epochs: 1
+  size: 4096
+fedpareto:
+  objective_weights:
+    accuracy: 0.5
+    calibration: 0.2
+    fairness: 0.1
+    robustness: 0.2
+  temperature: 1.0
+  reliability_momentum: 0.9
+  trust_penalty: 0.1
+  fairness_strength: 0.15
+  entropy_reg: 0.25
+  pareto_bonus: 0.05
+evaluation:
+  batch_size: 256
+  ece_bins: 15
+output:
+  root_dir: runs
+benchmark_meta:
+  attack_only: true
+  max_rounds: 500
+  early_stopping_supported: false
+  early_stopping_used: false
+  early_stopping_patience_requested: 8
+  notes: Repo-level standardized early stopping not enabled by default; benchmark
+    uses fixed max rounds and skip-if-summary-exists resume semantics.
+  architecture_label: ShuffleNetV2
+  dataset_label: SVHN
+  method_label: FedAvg
+  attack_label: badnets
+experiment_name: svhn_shufflenet_v2_fedavg_badnets_seed1
+model:
+  name: shufflenet_v2
+method:
+  name: fedavg

@@ -1,0 +1,14 @@
+flowchart TD
+    U1[Accuracy gain]
+    U2[Calibration gain]
+    U3[Fairness-aware client priority]
+    U4[Robustness consistency]
+    U5[Pareto rank bonus]
+
+    U1 --> SCORE[Client utility score]
+    U2 --> SCORE
+    U3 --> SCORE
+    U4 --> SCORE
+    U5 --> SCORE
+    SCORE --> W[Simplex weights]
+    W --> AGG[Global parameter update]

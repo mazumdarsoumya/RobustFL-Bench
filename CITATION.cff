@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use RobustFL-Bench or the FedPARETO implementation, please cite the associated study.
+title: RobustFL-Bench
+type: software
+authors:
+  - family-names: Mazumdar
+    given-names: Soumya
+    email: reachme@soumyamazumdar.com
+repository-code: https://github.com/mazumdarsoumya/RobustFL-Bench
+license: MIT
+year: 2026

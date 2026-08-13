@@ -1,0 +1,17 @@
+name: fedpareto
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - numpy
+  - pandas
+  - matplotlib
+  - pyyaml
+  - scikit-learn
+  - tqdm
+  - pip
+  - pip:
+      - -e .

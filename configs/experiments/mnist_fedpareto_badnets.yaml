@@ -1,0 +1,51 @@
+experiment_name: mnist_fedpareto_badnets_seed1
+seed: 1
+device: cuda
+dataset:
+  name: mnist
+  root: data/raw
+  image_size: 28
+  normalize: true
+partition:
+  type: dirichlet
+  num_clients: 20
+  dirichlet_alpha: 0.3
+  pathological_classes_per_client: 2
+federated:
+  rounds: 20
+  clients_per_round: 8
+  local_epochs: 2
+  batch_size: 64
+  lr: 0.01
+  momentum: 0.9
+  weight_decay: 0.0
+model:
+  name: simple_cnn
+method:
+  name: fedpareto
+attack:
+  name: badnets
+  malicious_fraction: 0.25
+  target_label: 0
+  poison_fraction: 0.30
+anchor:
+  size: 512
+  batch_size: 128
+  server_root_epochs: 1
+fedpareto:
+  objective_weights:
+    accuracy: 0.35
+    calibration: 0.15
+    fairness: 0.20
+    robustness: 0.30
+  temperature: 4.0
+  reliability_momentum: 0.8
+  trust_penalty: 0.25
+  fairness_strength: 0.5
+  entropy_reg: 0.08
+  pareto_bonus: 0.3
+evaluation:
+  batch_size: 256
+  ece_bins: 15
+output:
+  root_dir: runs

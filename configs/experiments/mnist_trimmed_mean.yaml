@@ -1,0 +1,50 @@
+experiment_name: mnist_trimmed_mean_seed1
+seed: 1
+device: cuda
+dataset:
+  name: mnist
+  root: data/raw
+  image_size: 28
+  normalize: true
+partition:
+  type: dirichlet
+  num_clients: 20
+  dirichlet_alpha: 0.3
+  pathological_classes_per_client: 2
+federated:
+  rounds: 20
+  clients_per_round: 8
+  local_epochs: 2
+  batch_size: 64
+  lr: 0.01
+  momentum: 0.9
+  weight_decay: 0.0
+model:
+  name: simple_cnn
+method:
+  name: trimmed_mean
+  trim_ratio: 0.2
+attack:
+  name: gaussian
+  malicious_fraction: 0.25
+anchor:
+  size: 512
+  batch_size: 128
+  server_root_epochs: 1
+fedpareto:
+  objective_weights:
+    accuracy: 0.40
+    calibration: 0.20
+    fairness: 0.20
+    robustness: 0.20
+  temperature: 3.0
+  reliability_momentum: 0.8
+  trust_penalty: 0.2
+  fairness_strength: 0.4
+  entropy_reg: 0.05
+  pareto_bonus: 0.2
+evaluation:
+  batch_size: 256
+  ece_bins: 15
+output:
+  root_dir: runs

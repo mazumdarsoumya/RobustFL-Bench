@@ -1,0 +1,17 @@
+flowchart LR
+    A[Server broadcasts global model and anchor batch ids]
+    B[Clients perform local training]
+    C[Each client returns model delta, sample count, anchor predictions, local metrics]
+    D[Server computes utility vector per client]
+    E[Temporal reliability update]
+    F[Benign subspace consistency]
+    G[Pareto-aware weight optimizer]
+    H[Weighted aggregation]
+    I[Global evaluation and logging]
+
+    A --> B --> C --> D
+    D --> E
+    D --> F
+    E --> G
+    F --> G
+    G --> H --> I

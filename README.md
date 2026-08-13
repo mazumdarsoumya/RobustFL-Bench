@@ -2,6 +2,8 @@
 
 **Robust federated learning benchmarking with FedPARETO, classic aggregators, heterogeneous clients, and poisoning attacks.**
 
+📄 **Paper:** [https://doi.org/10.48550/arXiv.2608.11423](https://doi.org/10.48550/arXiv.2608.11423)
+
 RobustFL-Bench is the public research implementation used to study federated aggregation under statistical heterogeneity and adversarial clients. The repository includes the FedPARETO aggregation method, comparison baselines, experiment configurations, and the scripts needed to run and summarize experiments. It does not include datasets, checkpoints, detailed training logs, or restricted result files. In other words: the code is here, the giant pile of GPU exhaust is not.
 
 ## What is included
@@ -91,6 +93,10 @@ Random seeds are controlled from YAML configuration files. Each run writes a con
 Federated learning distributes the training. Unfortunately, it does not distribute responsibility for checking the config file.
 
 ## Citation
+
+The associated paper is available at:
+
+**[https://doi.org/10.48550/arXiv.2608.11423](https://doi.org/10.48550/arXiv.2608.11423)**
 
 Citation metadata is provided in `CITATION.cff`. The repository and software copyright are held by **Soumya Mazumdar**.
 
